@@ -1,0 +1,14 @@
+{
+  "section": "excelvba",
+  "category": "powerquery",
+  "n": 1,
+  "title": "Power Query Toolkit",
+  "desc": "Power Query M templates for common data transformation patterns — cleaning, reshaping, merging and loading data in Excel. Production-ready and reusable across projects.",
+  "code": "https://github.com/Naadir-Dev-Portfolio/Power-Query-Toolkit",
+  "details": "https://github.com/Naadir-Dev-Portfolio/Power-Query-Toolkit/blob/main/README.md",
+  "tags": [
+    "excel",
+    "power-query",
+    "etl"
+  ]
+}
